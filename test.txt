@@ -1,3 +1,10 @@
 dsfsdfsdfshfdljjbhdgisaslj;kcznjbdhksjdllknvbdfkjds
 sdjlkjdnfdask
+<<<<<<< Updated upstream
 shuodasi;jkjsklijdkasdjk
+=======
+shuodasi;jkjsklijdkasdjk
+sdhfjalsjdb
+sdjfha
+dgl;d
+>>>>>>> Stashed changes
